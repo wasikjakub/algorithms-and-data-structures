@@ -7,7 +7,9 @@ First value on the lest side of '-----' is graph capacity
 then information about every edge is display (capacity, flow, residual, is residual?)  
 
 EXAMPLE: edge from s to v has capacity = 2, flow = 2, residual = 0, is not residual  
-  
+  ![FF-2](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/35c48488-6e1c-442c-be59-3c583a0d8e05)
+  ![FF-1](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/91708e0d-6a88-41ae-b7a7-85022c20d1c3)
+
 ![FF](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/565c0dc9-fe42-4da3-81b8-8ff391acb844)
 
 ### Prim/Minnimal spanning tree  
