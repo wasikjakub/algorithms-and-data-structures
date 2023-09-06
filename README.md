@@ -7,6 +7,7 @@ First value on the right side of '-----' is graph capacity
 then information about every edge is display (capacity, flow, residual, is residual?)  
 
 EXAMPLE: edge from s to v has capacity = 2, flow = 2, residual = 0, is not residual  
+  
   ![FF-2](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/35c48488-6e1c-442c-be59-3c583a0d8e05)
   ![FF-1](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/91708e0d-6a88-41ae-b7a7-85022c20d1c3)
 
@@ -19,7 +20,9 @@ Algorithm is given a graph, and have to find MST
 ![Prim](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/1122261e-b5c4-4677-8304-26674ccda09e)  
 
 ### Ullman algorithm  
-  Algorithm got three versions, each line represent different version, first value ine the array is the isomorphism count and the second is iterations count  beetwen these two graphs  
+
+  Algorithm got three versions, each line represent different version, first value ine the array is the isomorphism count and the second is iterations count  beetwen these two graphs   
+    
   ![Ullman graph 2](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/e8fe48a6-b7af-409d-a4a3-8fbc8056eb6f)  
   ![Ullman graph 1](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/791c43c7-8eef-4f32-99cb-ca7d7a15f895)  
 
@@ -46,7 +49,9 @@ Algorithm finds hull of given set of points
 
 ### Dynamic programming
 
-  work in progess...
+Few small experiments made with dynamic programming, code should be self-explanatory
+
+  ![dynamic](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/a4f9f6db-9511-4d3d-b616-ca1ca7a0e8b8)
 
 ### Classic graph implementation
 
@@ -57,24 +62,37 @@ Graph with polish dictricts as a vertex
 ### Hash table  
 
 Different operations on hash table  
-![hash table](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/d37aad56-9cef-4a50-b238-7244d7f761ea)
+  
+  ![hash table](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/d37aad56-9cef-4a50-b238-7244d7f761ea)
 
 ### Heap  
-  ![heap](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/300e5387-e7b6-4716-955f-70772cb98717)
+
+  Show heap as heap, than as a table, then test methods dequeue, peek and deleting whole thing   
+    
+![heap](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/300e5387-e7b6-4716-955f-70772cb98717)
 
 ### Heapsort/selectionsort
 
+Comparison with heap sort and slection sort, first on small table then on a table with 10,000 numbers generated randomly  
+  
 ![heapsort](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/5b26c5cf-f381-4710-979a-29bef67f4868)  
 ![heapsort2](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/d154aba0-5940-40ff-858c-4d3fb95e29a3)  
 ![heapsort3](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/46aebb27-c636-47a8-b398-0e8235978ce0)  
 
 ### Linked list
+
+Adding elemnts to the list then testing written methods: remove, is_empty, get, add_bottom, remove_bottom, take, drop and destroy
   
 ![lijnkedlist](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/a4b88937-3b80-4a41-8a52-940b49f7943b)
 
 ### Matrix
+
+Transpose, sum and multiplying two matrices
   
 ![matrix](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/af548bce-2c5e-49cb-a109-11ba5e1c06f3)
 
 ### Queue
+
+Testing written methods: dequeue, peek, writing, destroying with writing
+
   ![queue](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/8ccd1caf-668e-4416-8970-69074c562910)
