@@ -17,3 +17,5 @@ Algorithm is given a graph, and have to find MST
   
 ![prim-2](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/99dea6ba-e89c-4e3d-9502-532fb2fc9a11)  
 ![Prim](https://github.com/wasikjakub/Algorithms-and-data-structures/assets/144064944/1122261e-b5c4-4677-8304-26674ccda09e)  
+
+  work in progess...
